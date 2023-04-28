@@ -4,7 +4,7 @@
 ## Tecnologias utilizadas
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-This project was created using Docker to studying the basic concepts of Python learned at day 01 and day 02 in the 100 **Days of Code: The Complete Python Pro Bootcamp**.
+This project was created using Docker to studying the basic concepts of Python learned at day 01 and day 02 in the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**.
 
 ## Summary
 **Day 01:** Working with variables in Python to manage data
